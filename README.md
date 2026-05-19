@@ -78,13 +78,3 @@ the gym. My code works. I'm just not always sure why.
 </div>
 
 ---
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=SainiNitin-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

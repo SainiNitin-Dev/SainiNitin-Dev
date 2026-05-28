@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Nitin 👋
+# Hey there!! I'm Nitin 👋
 ### CS Student | Full Stack Dev | Building things that (sometimes) work
 
 </div>

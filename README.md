@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Profile Summary](./profile-summary-card-output/github_dark/0-profile-details.svg)
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SainiNitin-Dev&show_icons=true&theme=github_dark)
 
 </div>
 
